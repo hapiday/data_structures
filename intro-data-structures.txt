@@ -1,0 +1,12 @@
+Exercises:
+1.
+  a) arr =["Vivian", "Ava", "Josh", "Patrick", "Mike"];
+  b) arr.push("Mary");
+  c) arr.indexOf("Josh"); // 2
+  d) arr.indexOf("Emily"); // -1
+  e) arr.splice(1,0, "Melissa"); // ["Vivian", "Melissa", "Ava", "Josh", "Patrick", "Mike", "Mary"]
+  f) arr.splice(4, 1) // ["Vivian", "Melissa", "Ava", "Josh", "Mike", "Mary"
+
+2. To store the possible moves in a chess game.
+
+3. Assign numerical values for chess color - white will be 0, black will be 1 etc. This process would be called encoding and the  particular piece of information (chess color in this case) would be a data structure.
